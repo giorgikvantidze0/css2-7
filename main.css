@@ -1,0 +1,206 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+
+#frame {
+    background-color: #FFB8D7;
+    max-width: 1600px;
+    width: 100%;
+    padding:  70px;
+    margin: 0 auto;
+    margin-top: 64px;
+    margin-bottom: 50px;
+    
+}
+
+#contents {
+    padding: 96px;
+    background-color: #FFF;
+    max-width: 1400px;
+    height: 1800px;
+    margin: 0 auto;
+    padding: 96px;
+}
+
+#header {
+    max-width: 1280px;
+    text-align: center;
+}
+
+#blog {
+    text-align: center;
+    color: #002AFE;
+    font-size: 10px;
+}
+
+#headertoo {
+    text-align: center;
+    font-size: 48px;
+    color: black;
+}
+
+#headerthree {
+    margin: 24px;
+    color: #535862;
+    font-size: 30px;
+}
+
+#imagebox {
+    margin-top: 56px;
+    max-width: 1280px;
+    
+}
+
+#imageone {
+    display: inline-block;
+    vertical-align: middle;
+    text-align: left;
+
+}
+
+#textimagevan {
+    max-width: 585px;
+    display: inline-block;
+    vertical-align: middle;
+    text-align: left;
+    margin-left: 90px;
+}
+
+#textheder {
+    color: #6941C6;
+    font-size: 14px;
+}
+
+#text-header-too {
+    font-size: 24px;
+    color: #181D27;
+    display: inline-block;
+}
+
+#arrow {
+    margin-left: 8px;
+    vertical-align: middle;
+    margin-bottom: 5px;
+}
+
+#texttt {
+    font-size: 16px;
+    color: #535862;
+    margin-top: 5px;
+    max-width: 500px;
+}
+
+#avatarfoto {
+    margin-top: 20px;
+    vertical-align: middle;
+    display: inline-block;
+}
+
+.profileWrapper {
+    display: inline-block;
+    vertical-align: text-top;
+}
+
+#box-too {
+    margin-top: 56px;
+    max-width: 1280px;
+}
+
+#compiuters {
+    display: inline-block;
+    vertical-align: middle;
+    text-align: left;
+}
+
+#space {
+    max-width: 585px;
+    display: inline-block;
+    vertical-align: middle;
+    text-align: left;
+    margin-left: 90px;
+}
+
+#spase-product {
+    color: #6941C6;
+    font-size: 14px;
+}
+
+#space-top {
+    font-size: 24px;
+    color: #181D27;
+    display: inline-block;
+}
+
+#space-javascript {
+    font-size: 16px;
+    color: #535862;
+    margin-top: 5px;
+    max-width: 500px;
+}
+
+#profailfoto {
+    margin-top: 20px;
+    vertical-align: middle;
+    display: inline-block;
+}
+
+#box-three {
+    margin-top: 56px;
+    max-width: 1280px;
+}
+
+
+#image-kompiuter {
+    display: inline-block;
+    vertical-align: middle;
+    text-align: left
+}
+
+#copiuterthre {
+    max-width: 585px;
+    display: inline-block;
+    vertical-align: middle;
+    text-align: left;
+    margin-left: 90px;
+}
+
+#box-logo {
+    margin-left: 8px;
+    vertical-align: middle;
+    margin-bottom: 5px;   
+}
+
+#box-logo-thre {
+    margin-left: 8px;
+    vertical-align: middle;
+    margin-bottom: 5px;
+}
+
+
+#copiutercustomer {
+    color: #6941C6;
+    font-size: 14px;
+} 
+
+#compiuterpocast {
+    font-size: 24px;
+    color: #181D27;
+    display: inline-block;
+}
+
+#copiutertext {
+    font-size: 16px;
+    color: #535862;
+    margin-top: 5px;
+    max-width: 500px;
+}
+
+#avatar-kompiuter {
+    margin-top: 20px;
+    vertical-align: middle;
+    display: inline-block;
+}
